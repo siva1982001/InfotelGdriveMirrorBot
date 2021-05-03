@@ -83,7 +83,8 @@ def bot_help(update, context):
 
 /{BotCommands.LogCommand}: Get a log file of the bot. Handy for getting crash reports
 
-Watch video - https://youtu.be/07Pj9YLdpM4
+Join Our Channel https://t.me/Toxic_Leech_group
+
 '''
     sendMessage(help_string, context.bot, update)
 
